@@ -1,2 +1,2 @@
-# topkcommonwords
-Get top k common words between 2 input files, excluding stopwords
+# top n common words
+Get top n common words between 2 input files, excluding stopwords
