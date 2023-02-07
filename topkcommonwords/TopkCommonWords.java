@@ -1,5 +1,4 @@
-// Matriculation No: A0223103A
-// Name: Rena Chong Pei Qi
+// Name: Rena Chong
 // TopkCommonWords.java
 
 import java.io.IOException;
